@@ -5,8 +5,8 @@
 I'm an informatics student interested in software development, problem-solving, and building practical applications. I enjoy exploring new technologies and continuously improving my programming skills.
 
 ### Tech Stack
-- **Languages:** C++, TypeScript
-- **Tools:** Git, GitHub
+- **Languages:** C++, TypeScript, Javascript, Python
+- **Tools:** Git, GitHub, Visual Studio
 
 ### Featured Projects
 - 🎮 [Project Dungeon Despoiler](https://github.com/Cydnirn/ProjectDungeonDespoiler) — Console-based game developed using C++.
