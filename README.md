@@ -9,9 +9,9 @@ I'm an informatics student interested in software development, problem-solving, 
 - **Tools:** Git, GitHub, Visual Studio
 
 ### Featured Projects
-- 🎮 [Project Dungeon Despoiler](https://github.com/Cydnirn/ProjectDungeonDespoiler) — Console-based game developed using C++.
-- 🎵 [MP3 Media Player](https://github.com/Cydnirn/MP3MediaPlayer) — Console-based media player built for a data structures assignment.
-- 🌐 [Endfield Frontend](https://github.com/endfield-industries-amikom/endfield-frontend) — Frontend development project using TypeScript.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,ts,git,github,vscode&theme=dark" alt="Tech Toolbox"/>
+</p>
 
 ### GitHub Stats
 
