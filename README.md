@@ -6,8 +6,10 @@ I'm an informatics student interested in software development, problem-solving, 
 
 ## 🧰 Tech Toolbox
 
+🧰 Tech Toolbox
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,ts,git,github,vscode&theme=dark" alt="Tech Toolbox"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,cs,nodejs,nextjs,vue,nuxtjs,react,reactrouter,vscode,git,github&theme=dark" alt="Tech Toolbox"/>
 </p>
 
 ## 🚀 Featured Projects
