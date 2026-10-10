@@ -26,4 +26,4 @@ I'm an informatics student interested in software development, problem-solving, 
 
 ---
 
-*Always learning. Always building.*
+*Chase the Skies*
