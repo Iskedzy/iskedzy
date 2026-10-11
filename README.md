@@ -34,7 +34,7 @@ A frontend development project built with TypeScript.
   <a href="https://github.com/Iskedzy">
     <img src="https://img.shields.io/badge/GitHub-Iskedzy-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://ikedz.co">
+  <a href="[https://ikedz.co](https://www.instagram.com/ikedz.co/)">
     <img src="https://img.shields.io/badge/Website-ikedz.co-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
